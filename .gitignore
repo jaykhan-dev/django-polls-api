@@ -1,0 +1,4 @@
+*.pyc
+/django-polls-api-env/
+db.sqlite3
+/config/settings/dev.py
